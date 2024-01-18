@@ -1,6 +1,8 @@
 # Sales-Analysis
 This GitHub repository is dedicated to Sales Analysis, providing a comprehensive exploration and visualization of sales data over time. The repository incorporates various aspects of sales, including monthly sales trends, product-specific sales, refunds, and discounts. Through the use of powerful visualization dashboards, users can gain valuable insights into the performance and dynamics of sales metrics.
 
+![image](https://github.com/jett512/Sales-Analysis/assets/107717668/1ae8dfea-8f07-44a4-b934-3196cbb60c5d)
+
 
 ## Key Features
 * Monthly Sales Trends: Explore the ebb and flow of sales over different months, identifying patterns and trends to inform strategic decision-making.
@@ -18,3 +20,5 @@ This GitHub repository is dedicated to Sales Analysis, providing a comprehensive
 
 ## Dataset
 Retrieved from Kaggle: https://www.kaggle.com/datasets/tylermorse/retail-business-sales-20172019?select=business.retailsales.csv
+
+
